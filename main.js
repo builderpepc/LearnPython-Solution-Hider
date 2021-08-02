@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Remove Solution Button learnpython.org
-// @namespace    https://github.com/builderpepc
+// @namespace    https://github.com/builderpepc/LearnPython-Solution-Hider
 // @version      1.0
 // @description  Removes the solution button from learnpython.org challenges for any sneaky learners.
 // @author       builderpepc
