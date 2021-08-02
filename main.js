@@ -7,6 +7,8 @@
 // @match        https://www.learnpython.org/*
 // @icon         https://www.google.com/s2/favicons?domain=learnpython.org
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/builderpepc/LearnPython-Solution-Hider/main/main.js
+// @downloadURL  https://raw.githubusercontent.com/builderpepc/LearnPython-Solution-Hider/main/main.js
 // ==/UserScript==
 
 (function() {
